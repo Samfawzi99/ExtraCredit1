@@ -19,7 +19,7 @@ int main(int argc, char* argv[])
 		cout << "Error with input agrs.." << endl;
 		return 1;
 	}
-
+//adding comment to see changes
 	// For debugging purposes only
 
 	for (int i = 0; i < argc; i++)
